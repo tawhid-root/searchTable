@@ -1,0 +1,12 @@
+# searchTable
+
+## Description
+To create this I use: "html, js, tailwindCss"
+
+## Live Demo
+You can view the live demo of the project here: [Live Demo](https://tawhid-root.github.io/searchTable/)
+
+## Installation
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/your-github-username/repository-name.git
